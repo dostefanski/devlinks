@@ -10,8 +10,8 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/previewlight.png" width="30%">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="30%">
+  <img alt="projeto DevLinks" src="previewlight.png" width="30%">
+  <img alt="projeto DevLinks" src="preview.png" width="30%">
 </p>
 
 <br>
