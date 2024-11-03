@@ -5,7 +5,7 @@
 
 # 💻 Projeto
 
-<p>Projeto desemvolvido no corso Discovery da @Rocketseat.</p>
+<p>Projeto desemvolvido no corso Discovery da Rocketseat.</p>
 
 <br>
 
